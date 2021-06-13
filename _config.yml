@@ -1,14 +1,15 @@
 title: Sandra Lee
 author: Sandra Lee
-email: slee2@ebnet.orf
+school_email: slee2@ebnet.org 
+email: lee.sandra2003@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
- Hello and welcome to my website. I will be presenting information about me. 
+ Hello and welcome to my website. This is my first website on Github. I have no idea what I'm doing but I hope this turns out okay. Anyways, have fun and have a nice day :)
 
 # social links
 twitter_username: sandyleeks
 github_username: sandralee23
 instagram_username: sandra.lee_
-discord_username: vitaminlee#4396
+facebook_profile: https://www.facebook.com/profile.php?id=100027850241369
 
 show_excerpts: true # set to false to remove excerpts on the homepage
-theme: minima
+theme: merlot
