@@ -1,6 +1,6 @@
 ---
-title: Bragsheet: Things I want in life
-date: 2021-6-13
+title: "Bragsheet: Things I want in life"
+date: 2021-06-13
 ---
 
 1. Money 
